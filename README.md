@@ -11,7 +11,7 @@ Includes
  2. Run the script
 
 
-## Steps
+## Steps run_analysis.R
 1. Downloads the raw dataset.
 2. Extracts feature labels (variable names) of relevant features (only mean and std)
 3. Combines training and test set. 
